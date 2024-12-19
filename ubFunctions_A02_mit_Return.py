@@ -3,10 +3,11 @@
 ### Aufgabe 2: - jetzt in der Variante mit Rückgabewert
 #
 ### Entwerfen Sie eine Function anrede, die als Parameter einen Vornamen übernimmt und 
-### diesen in die Ausgabe „Guten Morgen + ….“mit einbaut.
+### diesen in die Zeichenkette „Guten Morgen + ….“mit einbaut. Die konstruierte Zeichenkette
+### wird dann über den return-Befehl an den Aufrufer zurückkopiert.
 ### Beispiel:
 ###    • Übergabewert „Thomas“
-###    • Ausgabe: „Guten Morgen Thomas“
+###    • Rückgabewert: „Guten Morgen Thomas“
 
 # In diesem Fall empfängt die Function anrede beim Aufruf die Information "Thomas".
 # Diese Information wird in der lokalen Speicherstelle vorname abgelegt und in der
