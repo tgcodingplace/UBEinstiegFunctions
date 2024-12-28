@@ -18,6 +18,7 @@ def f1(wert):
 
 eingabe = int(input("Eingabe einer Ganzzahl: "))
 
+# wahr oder falsch wird ausgewertet
 if f1(eingabe):
     print(str(eingabe) + " ist gerade ")
 else:
