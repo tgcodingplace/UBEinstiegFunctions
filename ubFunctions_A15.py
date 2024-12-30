@@ -13,9 +13,6 @@ def f9(wert):
     # In die Speicherstelle bitfolge legen wir die duale Darstellung ab
     bitfolge = ""
 
-    # In diesem Fall gehören die Intervallgrenzen dazu.
-    # Wäre der Startwert ungerade so erhöhe um 1 auf die nächste gerade Zahl
-
     # Wiederhole solange teiler größer als 0 ist. Durch die fortlaufende ganzzahlige
     # Division durch 2 stellen wir sicher, dass alle 8 Bit (=Stellen) geprüft werden
     # Ist der Teiler im aktuellen Wert vorhanden, schreiben wir eine 1, ansonsten eine
