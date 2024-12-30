@@ -23,7 +23,7 @@ def f10(wert):
 
         hexziffer = ""
 
-        # An dieser Stelel arbeiten wir mit dem ASCII-Code 55 + 10 = 65 --> "A"
+        # An dieser Stelle arbeiten wir mit dem ASCII-Code 55 + 10 = 65 --> "A"
         # chr() macht aus einer Zahl das entsprechende Zeichen
 
         if wert//teiler > 9:
