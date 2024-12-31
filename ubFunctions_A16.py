@@ -10,7 +10,7 @@ def f10(wert):
 
     # Im 8-Bit-Bereich (0-255) ist 16 der größte Teiler
     teiler = 16
-    # In die Speicherstelle bitfolge legen wir die duale Darstellung ab
+    # In die Speicherstelle hexfolge legen wir die hexadezimale Darstellung ab
     hexfolge = ""
 
     # Wiederhole solange teiler größer als 0 ist. Durch die fortlaufende ganzzahlige
